@@ -10,7 +10,7 @@ permissions:
   copilot-requests: write
 tools:
   edit: true
-  web-fetch: true
+  web-fetch
 network:
   allowed:
     - github.blog
